@@ -1,4 +1,4 @@
-# ☁️ OTIMIZANDO CUSTOS NO AZURE AZURE  
+# ☁️ OTIMIZANDO CUSTOS NO AZURE
  
 <p align="center">
   <img src="https://i.postimg.cc/Gmxtwttm/azure-fundamentals.png" width="256">
