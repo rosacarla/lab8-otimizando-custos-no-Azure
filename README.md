@@ -85,7 +85,7 @@
 <p align='justify'>- <i>Defender for Cloud</i> pode ser usado junto com o Azure Arc, uma solução da Microsoft que permite a gestão de ambientes híbridos e multinuvem. Ele estende a plataforma Azure para que se possa gerenciar, proteger e operar infraestrutura, aplicativos e serviços do Azure em qualquer lugar, como em datacenters locais, na borda ou em outras nuven. </p>  
 
 <p align="center">
- <img src='images/id-devops-security.png'' width=550>
+ <img src='images/id-devops-security.png' width=550>
 </p>
 
 <p align='justify'>- Além de ser um validador de segurança de outors ambientes, o Defender for  Cloud tem o módulo DevOps Security propicia a conexão com contas do GiHub, GitLab, AWS, GCP e outros para fazer validação enuanto códigos são carregados para a nuvem. Podem ser configurados alertas para enviar por e-mail, Teams, Slack. <i>Defender CSPM</i> é um serviço gratuito para fazer validação de segurança, recomendações de segurança e score de segurança. </p>
